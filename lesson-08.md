@@ -1,6 +1,6 @@
 ## Урок 8: Более глубокий взгляд на контроль
 
-Оригинальное видео по ссылке: https://www.youtube.com/watch?v=RyvXxApfHkk&list=PLf2m23nhTg1NjL3-jL3s0qZCYzO07ZQPv&index=10
+Оригинальное видео по ссылке: https://www.youtube.com/watch?v=Y0KidGr9Z2Y&list=PLf2m23nhTg1NjL3-jL3s0qZCYzO07ZQPv&index=10
 
 В этом видео мы углубимся в компетенцию AI-грамотности под названием **контроль**.
 
